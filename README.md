@@ -1,2 +1,2 @@
 # topic-service
-Micro-service for managing topics for studying
+Microservice for managing topics for studying
